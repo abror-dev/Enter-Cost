@@ -2,6 +2,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  background-color: antiquewhite;
 }
 p {
   text-align: center;
@@ -25,6 +26,7 @@ input {
   text-align: center;
   margin: 0 460px;
   color: black;
+  background-color: white;
   font-weight: bold;
   border: 1px solid gray;
 

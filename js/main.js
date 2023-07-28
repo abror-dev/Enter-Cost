@@ -6,7 +6,7 @@ function fn() {
     elHead.textContent = "Alisher oq yol";
     elInp.value = "";
   } else if (elInp.value < 9250000) {
-    elHead.textContent = "Alisher damin olaver";
+    elHead.textContent = "Abrorbek damin olaver";
     elInp.value = "";
   } else {
     elHead.textContent = "Faqat raqam kriting";
